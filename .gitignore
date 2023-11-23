@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+__pycache__/
+
+/venv
+
+/data
+/datasets
+/outputs
+# /analysis
+/wandb
+
+# *.ipynb

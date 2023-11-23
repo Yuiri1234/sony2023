@@ -1,0 +1,8 @@
+easydict
+pyyaml
+pandas
+transformers
+ultralytics
+opencv-python-headless
+timm
+scikit-learn

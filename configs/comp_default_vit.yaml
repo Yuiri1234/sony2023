@@ -1,0 +1,11 @@
+hidden: 512
+dropout: 0.5
+no_decay: ['bias', 'LayerNorm.weight']
+weight_decay: 0.01
+eps: 1e-10
+lr: 0.002
+batch_size: 64
+epochs: 50
+data_dir: all+comp
+model: vit
+detection: false
